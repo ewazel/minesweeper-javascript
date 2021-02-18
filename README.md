@@ -1,5 +1,16 @@
 # Minesweeper
 
+![setup](printscreens/game_setup.png)
+
+![playing](printscreens/game_play.png)
+
+![victory](printscreens/game_won.png)
+
+![game over](printscreens/game_over.png)
+
+
+
+
 ## Story
 
 You work for a company that wants to recreate old built-in Windows games to make them playable in a Web browser.
